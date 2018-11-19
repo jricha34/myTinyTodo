@@ -1,3 +1,5 @@
+/!\ I simply edit some lines to update the deprecated "mysql_connect" function by "mysqli_connect".
+
 # myTinyTodo
 __myTinyTodo__ is a simple, self-hosted way to manage to your lists.
 
